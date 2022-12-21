@@ -1,1 +1,1 @@
-A simple,beautiful shell program
+Our own simple shell
